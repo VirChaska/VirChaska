@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-Soy **virginia**, bachiller en economía y apasionada por los datos y la teconología. Actualmente estoy inmersa en el análisis y ciencia de los datos.
+Soy **virginia**, bachiller en economía y apasionada por los datos y la teconología. Actualmente estoy inmersa en el análisis y la ciencia de datos.
 Tengo experiencia en la recopilación, limpieza y análisis de datos para obtener información valiosa que impulse la toma de decisiones empresariales. Mi capacidad para traducir datos complejos en insights comprensibles y acciones concretas me permite contribuir al éxito de proyectos y objetivos organizacionales.
 
 ## Proyectos
