@@ -4,19 +4,10 @@ Tengo experiencia en la recopilación, limpieza y análisis de datos para obtene
 
 ## Proyectos
 ### Data Analytics - Análisis de datos del mercado de criptomonedas
-[Ver repositori](https://github.com/VirChaska/DA_Criptomonedas)
-  
-**Herramientas:** Python | Power BI
-**Librerías:** Pandas | Numpy | Seaborn | Matplotlib
-**Plataformas:** API CoinGecko
-
+[Ver repositorio](https://github.com/VirChaska/DA_Criptomonedas)
 
 ### Data Engineer y Machine Learning - MLOps con juegos de Steam
-[Ver repositori](https://github.com/VirChaska/Proyecto_MLops)
-  
-**Herramientas:** Python | FastAPI
-**Librerías:** Pandas | Numpy | Seaborn | Matplotlib | Scikit-Learn 
-**Plataformas:** Render.
+[Ver repositorio](https://github.com/VirChaska/Proyecto_MLops)
 
 ## Tecnologías y habilidades
 - **Lenguajes de programación:** Python
