@@ -3,9 +3,9 @@ Soy **virginia**, bachiller en economía y apasionada por los datos y la teconol
 Tengo experiencia en la recopilación, limpieza y análisis de datos para obtener información valiosa que impulse la toma de decisiones empresariales. Mi capacidad para traducir datos complejos en insights comprensibles y acciones concretas me permite contribuir al éxito de proyectos y objetivos organizacionales.
 
 ## Proyectos
-### Data Analytics - Análisis de datos del mercado de criptomonedas [Ver repositorio](https://github.com/VirChaska/DA_Criptomonedas)
+### Data Analytics - Análisis de datos del mercado de criptomonedas ([Ver repositorio](https://github.com/VirChaska/DA_Criptomonedas))
 
-### Data Engineer y Machine Learning - MLOps con juegos de Steam [Ver repositorio](https://github.com/VirChaska/Proyecto_MLops)
+### Data Engineer y Machine Learning - MLOps con juegos de Steam ([Ver repositorio](https://github.com/VirChaska/Proyecto_MLops))
 
 ## Tecnologías y habilidades
 - **Lenguajes de programación:** Python
