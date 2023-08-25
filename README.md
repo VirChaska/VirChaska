@@ -1,18 +1,12 @@
-### ¡Hola! 👋
-Soy virginia, bachiller en economía y apasionada por los datos y la teconología. Actualmente estoy inmersa en el análisis de los datos y la ciencia de datos.
+# ¡Hola! 👋
+Soy **virginia**, bachiller en economía y apasionada por los datos y la teconología. Actualmente estoy inmersa en el análisis de los datos y la ciencia de datos.
 Tengo experiencia en la recopilación, limpieza y análisis de datos para obtener información valiosa que impulse la toma de decisiones empresariales. Mi capacidad para traducir datos complejos en insights comprensibles y acciones concretas me permite contribuir al éxito de proyectos y objetivos organizacionales.
 
-<!--
-**VirChaska/VirChaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologías y habilidades
+- **Lenguajes de programación:** Python
+- **Herramientas:**  Power BI | MySQL | Excel | Jupyter Notebook 
+- **Base de datos:** SQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educación
+- Data Science. Henry Bootcamp. Más de 700 horas cursadas (teórico-práctico). 2023.
+- Bachiller en Economía. Universidad Nacional de San Cristóbal de Huamanga. 2015 - 2020
