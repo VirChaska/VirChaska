@@ -9,7 +9,7 @@ Tengo experiencia en la recopilación, limpieza y análisis de datos para obtene
 
 ## Tecnologías y habilidades
 - **Lenguajes de programación:** Python
-- **Herramientas:**  Power BI | MySQL | Excel | Jupyter Notebook 
+- **Herramientas:**  Power BI | MySQL | Excel | Jupyter Notebook | Google Cloud Platform | Docker
 - **Base de datos:** SQL
 
 ## Educación
