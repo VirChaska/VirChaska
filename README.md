@@ -1,6 +1,5 @@
 # ¡Hola! 👋
-Soy **virginia**, bachiller en economía y apasionada por los datos y la teconología. Actualmente estoy inmersa en el análisis y la ciencia de datos.
-Tengo experiencia en la recopilación, limpieza y análisis de datos para obtener información valiosa que impulse la toma de decisiones empresariales. Mi capacidad para traducir datos complejos en insights comprensibles y acciones concretas me permite contribuir al éxito de proyectos y objetivos organizacionales.
+I am Virginia, with background in economics and deeply passionate about data and technology. Currently, I am fully engaged in the field of data analysis and data science. I possess extensive experience in data collection, data cleaning, and data analysis, all aimed at extracting valuable insights to inform and support strategic business decisions. My proficiency in simplifying complex data into clear and actionable insights enables me to make meaningful contributions to the success of projects and organizational goals.
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
