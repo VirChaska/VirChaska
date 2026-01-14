@@ -18,7 +18,7 @@ I am **Virginia**, with background in economics and deeply passionate about data
     <h3>📚 Education:</h3>
     <ul>
         <li>Data Science. Henry Bootcamp. Over 700 hours completed (theoretical and practical). 2023.</li>
-        <li>Bachelor's in Economics. Universidad Nacional de San Cristóbal de Huamanga. 2015 - 2020.</li>
+        <li>Professional Degree in Economics. Universidad Nacional de San Cristóbal de Huamanga. 2015 - 2020.</li>
     </ul>
 </div>
 
