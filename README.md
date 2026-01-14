@@ -1,5 +1,5 @@
 # Hi! 👋
-I am **Virginia**, with background in economics and deeply passionate about data and technology. Currently, I am fully engaged in the field of data analysis and data science. I possess extensive experience in data collection, data cleaning, and data analysis, all aimed at extracting valuable insights to inform and support strategic business decisions. My proficiency in simplifying complex data into clear and actionable insights enables me to make meaningful contributions to the success of projects and organizational goals.
+I am **Virginia**, with background in economics and deeply passionate about data and technology. Currently, I am fully engaged in the field of data analysis and data science. I possess extensive experience in data collection, data cleaning, and data analysis, all aimed at extracting valuable insights to inform and support strategic business decisions.
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
